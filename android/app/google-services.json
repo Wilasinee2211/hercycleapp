@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "709812336053",
+    "firebase_url": "https://hercycle-e804f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hercycle-e804f",
+    "storage_bucket": "hercycle-e804f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709812336053:android:89b17ae0b82a1d543f95fc",
+        "android_client_info": {
+          "package_name": "com.example.hercycleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDYhxQl29tXuShj8j1lXumgmL0LJOTPuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
